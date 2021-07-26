@@ -1,0 +1,5 @@
+NasrCity
+4 
+Synthetic 
+Not_Covered 
+6am:11pm

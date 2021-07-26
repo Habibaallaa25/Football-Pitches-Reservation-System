@@ -1,0 +1,17 @@
+NasrCity
+4 
+Synthetic 
+Not_Covered 
+6am:11pm
+
+Zamalek 
+4 
+Natural 
+Covered 
+4am:9pm
+
+Ainshams 
+4
+Synthetic 
+Not_Covered  
+9am:10pm
